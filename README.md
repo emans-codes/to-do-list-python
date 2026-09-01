@@ -25,7 +25,7 @@ A simple **command-line To-Do List application** built with Python.
 Make sure Python is installed, then run:
 
 ```bash
-python todo_list.py
+python To_do_list.py
 ```
 
 Follow the options shown in the terminal to manage your tasks.
